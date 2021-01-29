@@ -1,0 +1,56 @@
+body {
+	background-color: rgba(16, 0, 14, 0.2);
+	position: relative;
+}
+h1 {
+	position: relative;
+	text-align: center;
+	font-family: "Lucida Handwriting", cursive;
+	font-size: 45px;
+}
+
+p {
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	font-family: Papyrus, fantasy;
+	font-size: 35px;
+}
+
+ul {
+	position: relative;
+	columns: auto;
+	-webkit-columns: auto;
+	column-count: 2;
+	display: block;
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+li {
+	text-align: center;
+	margin-top: 50px;
+	font-family: Papyrus, fantasy;
+	font-size: 25px;
+}
+
+img {
+	position: relative;
+	margin-top: 100px;
+	width: 400px;
+	height: 300px;
+}
+
+img:hover {
+	transform: scale(1.5);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}

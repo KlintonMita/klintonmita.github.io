@@ -1,0 +1,25 @@
+body {
+	background-image: url(background3.jpg);
+	background-repeat: no-repeat;
+	background-size: 1550px 800px;
+	position: relative;
+}
+a {
+	color: red;
+	position: relative;
+}
+
+li {
+	margin: 25px;
+	position: relative;
+}
+
+div2 {
+	position: relative;
+	margin: 15px;
+	color: red;
+	font-family: "Lucida Handwriting", cursive;
+	padding: 10px;
+	font-size: 20px;
+}
+

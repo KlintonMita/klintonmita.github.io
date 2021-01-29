@@ -1,0 +1,12 @@
+h1 {
+	animation-duration: 5s;
+	animation-delay: 0.5s;
+	font-size: 135px;
+	text-align: center;
+	padding-top: 105px;
+	font-family: "Lucida Handwriting", cursive;
+	
+}
+body {
+	background: linear-gradient(to right, red, yellow);
+}

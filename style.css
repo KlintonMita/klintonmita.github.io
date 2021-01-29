@@ -1,0 +1,11 @@
+body {
+	position: relative;
+	background-image: url(background1.jpg);
+	background-repeat: no-repeat;
+	background-size: 1550px 800px;
+}
+h1 {
+	position: relative;
+	color: white;
+	font-family: "Lucida Handwriting", cursive;
+}
